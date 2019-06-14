@@ -1,7 +1,5 @@
 aaaaaaaaaaaa
 bbbbbbbbbbbb
-<<<<<<< HEAD
 dddddddddddd
-=======
 cccccccccccc
->>>>>>> defdace39375cba310c38a17ceb4f739b41182e7
+
